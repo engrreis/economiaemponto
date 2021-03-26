@@ -1,0 +1,25 @@
+{
+  "name": "economiaemponto",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "next": "^10.0.9",
+    "react-dom": "^17.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "dev": "next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/engrreis/economiaemponto.git"
+  },
+  "keywords": [],
+  "author": "Ricardo Reis Ricci engrreis@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/engrreis/economiaemponto/issues"
+  },
+  "homepage": "https://github.com/engrreis/economiaemponto#readme"
+}
